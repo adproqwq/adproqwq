@@ -10,3 +10,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adproqwq&theme=transparent&layout=compact&card_width=467">
     </a>
 </p>
+
+爱发电：https://afdian.net/a/Adpro
