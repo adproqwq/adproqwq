@@ -11,4 +11,4 @@
     </a>
 </p>
 
-爱发电：https://afdian.net/a/Adpro
+爱发电：https://afdian.com/a/Adpro
